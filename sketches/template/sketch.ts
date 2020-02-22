@@ -1,0 +1,3 @@
+window.setup = () => {};
+
+window.draw = () => {};

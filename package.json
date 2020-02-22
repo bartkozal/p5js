@@ -1,0 +1,13 @@
+{
+  "name": "p5js",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "parcel sketches/**/*.html"
+  },
+  "dependencies": {
+    "@types/p5": "^0.9.0",
+    "parcel": "^1.12.4",
+    "typescript": "^3.8.2"
+  }
+}
